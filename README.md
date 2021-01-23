@@ -43,7 +43,7 @@ To receive full credit you must:
 
 2. Double click on the downloaded file to install Python on your computer. Answer the questions that the installer asks you and keep clicking the "Continue" button. You might have to enter your computer's password to complete the installation.
 
-*Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python to PATH"!.*
+*Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python 3.9 to PATH"!*
 
 3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program. Here's a screenshot from my Mac showing where the installer installed Python. 
 
@@ -70,11 +70,15 @@ To receive full credit you must:
 
 ---
 
-Reminder: the graded components of this problem set are:
+**Reminder:** To receive full credit you must
 
-* the slide from Part 1 (submtited to Canvas)
-* the screenshot from Part 5 (submitted to Canvas)
-* your responses to the survey in Part 2 (completed through Google forms)
+* Submit the slide from Part 1 to Canvas.
+* Complete the course survey from Part 2.
+* Post a message on Slack for Part 3.
+* Submit the screenshot from Part 5 to Canvas.
+
+**All components of this problem set are due by Friday, January 29th, by 11:59pm Boston time.**
+
 
 **All components are due is due Friday, January 29th, by 11:59pm Boston time.**
 
