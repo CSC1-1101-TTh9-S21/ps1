@@ -4,15 +4,13 @@ In this problem set you will do the following:
 
 * Let me know more about youself, your background, and your interest in programming and computer science.
 * Practice working with Slack, the app you will use to ask questions in this class instead of using email.
-* Install Python (our programming language) and IDLE (the software you will use to write you Python programs).
+* Install Python (our programming language) and IDLE (the software you will use to write your Python programs).
 * Write your first few lines of Python code within IDLE.
 
-You will submit to Canvas under Problem Set 1 the following components:
+You will complete the survey in Part 2 and you will submit to Canvas under Problem Set 1 the following components:
 
 * the slide from Part 1
 * the screenshot from Part 5
-
-You will also complete the survey in Part 2. Google tells me the time you submitted the survey so you don't need to submit anything to Canvas to show that you completed the survey.
 
 **This problem set is due Friday, January 29th, by 11:59pm Boston time.**
 
@@ -37,13 +35,20 @@ You will also complete the survey in Part 2. Google tells me the time you submit
 
 ### Part 4: Install Python (if you didn't already install it in class)
 
-1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads/ (Links to an external site.)
+1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads/. 
+
+<img src="img/download.png" width="300">
 
 2. Double click on the downloaded file to install Python on your computer. Answer the questions that the installer asks you and keep clicking the "Continue" button. You might have to enter your computer's password to complete the installation.
 
 *Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python to PATH"!.*
 
-3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program. Here's a screenshot from my Mac showing where the installer installed Python. Make a shortcut to the IDLE application to your desktop so you always know where to find it!
+3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program. Here's a screenshot from my Mac showing where the installer installed Python. 
+
+<img src="img/maclocation.png" width="500">
+
+
+4. Make a shortcut to the IDLE application to your desktop so you always know where to find it.
 
 
  ### Part 5: Type some Python code!
@@ -52,7 +57,8 @@ You will also complete the survey in Part 2. Google tells me the time you submit
 
 2. This will open a window that looks something like this.
 
-Screen Shot 2021-01-22 at 3.05.35 PM.png  
+<img src="img/idlepicture.png" width="500">
+ 
 
 3. Next to the ``>>>`` type a mathematical expression, like ``2+7`` or ``56/8``. Then hit return.
 
