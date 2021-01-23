@@ -9,7 +9,7 @@ In this problem set you will do the following:
 
 To receive full credit you must:
 
-* Submit the slide from Part 1 to Canvas.
+* Submit the PDF from Part 1 to Canvas.
 * Complete the course survey from Part 2.
 * Post a message on Slack for Part 3.
 * Submit the screenshot from Part 5 to Canvas.
@@ -20,14 +20,14 @@ To receive full credit you must:
 
 ### Part 1: Make a personalized slide
 
-1. Using PowerPoint, Keynote, or Google Slides, create a single landscape mode PDF that contains the following information.
+1. Using PowerPoint, Keynote, or Google Slides, create a single landscape mode **PDF** that contains the following information.
 
 * Your name as it appears in Canvas.
 * The name you prefer to be called.
 * A recent photo of you to help me learn what you look like.
 * One fun fact about yourself.
 
-2. Submit this PDF to Canvas for Problem Set 1.
+2. Submit this **PDF** to Canvas for Problem Set 1. *Note: You will not get full credit if you submit a PowerPoint or a link to a Google Slides presentation. You must submit a **PDF**.*
 
 ### Part 2: Take the course survey
 [Take this short survey.](https://forms.gle/iHYSEMEgyb3qoj3a6)
