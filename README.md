@@ -7,12 +7,14 @@ In this problem set you will do the following:
 * Install Python (our programming language) and IDLE (the software you will use to write your Python programs).
 * Write your first few lines of Python code within IDLE.
 
-You will complete the survey in Part 2 and you will submit to Canvas under Problem Set 1 the following components:
+To receive full credit you must:
 
-* the slide from Part 1
-* the screenshot from Part 5
+* Submit the slide from Part 1 to Canvas.
+* Complete the course survey from Part 2.
+* Post a message on Slack for Part 3.
+* Submit the screenshot from Part 5 to Canvas.
 
-**This problem set is due Friday, January 29th, by 11:59pm Boston time.**
+**All components of this problem set are due by Friday, January 29th, by 11:59pm Boston time.**
 
 ---
 
@@ -46,7 +48,6 @@ You will complete the survey in Part 2 and you will submit to Canvas under Probl
 3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program. Here's a screenshot from my Mac showing where the installer installed Python. 
 
 <img src="img/maclocation.png" width="500">
-
 
 4. Make a shortcut to the IDLE application to your desktop so you always know where to find it.
 
