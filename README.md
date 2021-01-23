@@ -1,4 +1,4 @@
-## Problem Set 1: Getting Started
+# Problem Set 1: Getting Started
 
 In this problem set you will do the following:
 
@@ -22,10 +22,10 @@ You will complete the survey in Part 2 and you will submit to Canvas under Probl
 
 * Your name as it appears in Canvas.
 * The name you prefer to be called.
-* A photo of you that resembles what you currently look like. For example, if you have a beard right now, make sure you have a beard in your photo. If you wear your hair in a ponytail, submit a picture of you with a ponytail. 
+* A recent photo of you to help me learn what you look like.
 * One fun fact about yourself.
 
-2. Submit this PDF to Canvas for this assignment.
+2. Submit this PDF to Canvas for Problem Set 1.
 
 ### Part 2: Take the course survey
 [Take this short survey.](https://forms.gle/iHYSEMEgyb3qoj3a6)
@@ -59,14 +59,13 @@ You will complete the survey in Part 2 and you will submit to Canvas under Probl
 
 <img src="img/idlepicture.png" width="500">
  
-
 3. Next to the ``>>>`` type a mathematical expression, like ``2+7`` or ``56/8``. Then hit return.
 
-4. Now type your own personalized greeting to me and the TAs using the ``print`` command. Here's an example, below, of how the command should look, but you will replace ``Hello, world!`` with your own greeting. (Don't forget to hit return after you type your command.)
+4. Now type your own personalized greeting to me and the TAs using the ``print`` command. Here's an example, below, of how the command should look, but you will replace ``Hello, world!`` with your own greeting. Don't forget to hit return after you type your command.
 
 ```print("Hello, world!")```
 
-5. Take a screenshot of your IDLE window showing that you typed these commands, and submit it to this Canvas assignment.
+5. Take a screenshot of your IDLE window showing that you typed these commands, and submit it to the Canvas assignment for Problem Set 1.
 
 ---
 
